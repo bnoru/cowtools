@@ -1,4 +1,4 @@
-# CowTools
+# <img width="48" height="48" alt="CowTools Corel icon round white bg" src="https://github.com/user-attachments/assets/e6d3c273-a87d-4641-89f3-17082242db59" /> CowTools
 
 **CowTools** is a small collection of CorelDRAW macros made to speed up repetitive print-shop tasks.
 
